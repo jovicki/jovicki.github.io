@@ -1,0 +1,262 @@
+.paragraph-image-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .paragraph-image {
+    margin-right: 10px;
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+  }
+
+    .image {
+        border: 3px solid #FF4B63;
+        border-radius: 8px;
+        max-width: 450px; /* Adjust the value to set the desired maximum width */
+        height: auto;
+        display: block;
+        margin-bottom: 0px;
+        margin-left: 1000px;
+        margin-top: 0px;
+ 
+        position: absolute;
+        
+        bottom: 57%;
+
+      }
+  
+
+      .image1 {
+        border: 3px solid #FF4B63;
+        border-radius: 8px;
+        max-width: 500px; /* Adjust the value to set the desired maximum width */
+        height: auto;
+        display: block;
+        margin-bottom: 0px;
+        margin-left: 1000px;
+        margin-top: 0px;
+ 
+        position: absolute;
+        
+        top: 55%;
+        right: 52%;
+
+ 
+
+      }
+  
+      .image2 {
+        border: 3px solid #FF4B63;
+        border-radius: 8px;
+        max-width: 500px; /* Adjust the value to set the desired maximum width */
+        height: auto;
+        display: block;
+        margin-bottom: 0px;
+        margin-left: 1000px;
+        margin-top: 0px;
+ 
+        position: absolute;
+        
+        top: 14.8%;
+        right: 5%;
+
+ 
+
+      }
+      .image3 {
+        border: 3px solid #FF4B63;
+        border-radius: 8px;
+        max-width: 500px; /* Adjust the value to set the desired maximum width */
+        height: auto;
+        display: block;
+        margin-bottom: 0px;
+        margin-left: 1000px;
+        margin-top: 0px;
+ 
+        position: absolute;
+        
+        top: 60.8%;
+        right: 25%;
+
+ 
+
+      }
+    
+    .image4 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 500px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 50.8%;
+      right: 5%;
+
+    }
+
+    .image6 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 400px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 15.8%;
+      right: 61.5%;
+
+    }
+    .image5 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 500px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 53.8%;
+      right: 7%;
+
+    }
+    .image7 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 190.4px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 15.8%;
+      right: 50%;
+
+    }
+    .image8 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 400.4px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 15.8%;
+      right: 3%;
+
+    }
+    .image9 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 350px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 47%;
+      right: 17%;
+
+    }
+    .image10 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 600px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 90%;
+      right: 49%;
+
+    }
+    .image11 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 600px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 85%;
+      right: 50.9%;
+
+    }
+    .image12 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 600px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 140%;
+      right: 12.6%;
+
+    }
+    .image14 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 600px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 18%;
+      right: 3.6%;
+
+    }
+    .image15 {
+      border: 3px solid #FF4B63;
+      border-radius: 8px;
+      max-width: 600px; /* Adjust the value to set the desired maximum width */
+      height: auto;
+      display: block;
+      margin-bottom: 0px;
+      margin-left: 1000px;
+      margin-top: 0px;
+
+      position: absolute;
+      
+      top: 60%;
+      right: 47%;
+
+    }
